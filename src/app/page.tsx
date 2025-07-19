@@ -13,7 +13,7 @@ export default function HomePage() {
           Stake LCOT on Solana. Earn LCOT-K on Kaspa. Join the dual-chain revolution that rewards streamers based on live activity.
         </p>
         <p style={{ marginTop: "10px", fontSize: "1rem", color: "#888" }}>
-          We're building something epic. Be part of it early.
+          We&apos;re building something epic. Be part of it early.
         </p>
 
         <Link href="/roadmap">
